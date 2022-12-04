@@ -1,0 +1,2 @@
+conn=sql.connect(host="localhost",user="root",passwd="manager",database="test")
+
